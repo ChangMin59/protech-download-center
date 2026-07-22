@@ -434,6 +434,11 @@ input {
   background: linear-gradient(135deg, #f0e8ff, #fbf8ff);
 }
 
+.badge.framework {
+  color: #a04f0b;
+  background: linear-gradient(135deg, #fff1df, #fffaf3);
+}
+
 .badge.latest {
   color: var(--green);
   background: linear-gradient(135deg, #e8fff4, #f8fffb);
